@@ -1,3 +1,9 @@
+---
+layout: post
+title: ML Pipelines
+---
+
+
 <div id="container" style="position:relative;">
 <div style="float:left"><h1> ML Pipelines </h1></div>
 <div style="position:relative; float:right"><img style="height:65px" src ="https://drive.google.com/uc?export=view&id=1EnB0x-fdqMp6I5iMoEBBEuxB_s7AmE2k" />
